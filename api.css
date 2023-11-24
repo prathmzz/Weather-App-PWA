@@ -10,7 +10,7 @@ body{
     background-color: #343434;
 }
 .container{
-    width: 26%;
+    width: 300px;
 }
 .card{
     border-radius: 50px;
